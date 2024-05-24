@@ -1,6 +1,6 @@
 This is the project for my Data Science capstone class. I worked with the REMS (Rice Emergency Medical Services) team in order to help them make predictions in different aspects for the following three years.
 
-** Project Description **
+**Project Description**
 
 Rice Emergency Medical Services (REMS) serves the Rice community and provides them with accessible medical care. After receiving a phone call, REMS dispatches staff to the site of the request. REMS staff then contact the patient and decide the best treatment plan, which could include calling an ambulance for transport to a nearby hospital. Composed mainly of undergraduate volunteers, REMS responds to about 1,000 emergencies each year and provides 5 academic courses in the Department of Kinesiology.
 
