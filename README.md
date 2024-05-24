@@ -1,0 +1,1 @@
+- This is the project for my Data Science capstone class. I worked with the REMS (Rice Emergency Medical Services) team in order to help them make predictions in different aspects for the following three years.
